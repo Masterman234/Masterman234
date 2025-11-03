@@ -26,8 +26,7 @@ I enjoy solving real-world problems through software and continuously improving 
       I was responsible for backend logic, data management, and integration.
 
   🧠  Currently Learning
-      RESTful API Design with .NET  
-      Advanced Entity Framework Core  
+     Design patterns and system design
       UI/UX Principles and Frontend Development  
       
   📫   Connect with Me
